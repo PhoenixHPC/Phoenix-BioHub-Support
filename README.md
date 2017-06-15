@@ -1,4 +1,4 @@
-# Phoenix Bioinformatics Community Blog Page [![Build Status](https://travis-ci.org/robqiao/PersonalBlog.svg?branch=master)](https://travis-ci.org/robqiao/PersonalBlog) 
-This is the announcement board for the Bioinformatics HPC Community at the University of Adelaide. 
+# Phoenix Bioinformatics Community Blog Page [![Build Status](https://travis-ci.org/robqiao/tutorial.svg?branch=master)](https://travis-ci.org/robqiao/tutorial) 
+This is the announcement board for the Bioinformatics HPC Community at the University of Adelaide. <br>
 
-This blog is powered by the static HTML engined by Jekyll.
+This blog is powered by the static HTML engined by Jekyll:copyright:.
