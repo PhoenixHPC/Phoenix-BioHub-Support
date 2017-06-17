@@ -1,3 +1,3 @@
-# Tutorial
+# Declaration
 
-This is my tutorial repository.
+This is my training and support repository for BioHub.
