@@ -5,7 +5,7 @@ description:         Phoenix@BioHub
 collections:
   announcements:
     output:      true
-    # permalink:   /:categories/:title/
+    permalink:   /:categories/:title/
   downloads:
     output:      true
     permalink:   /:categories/:title/
