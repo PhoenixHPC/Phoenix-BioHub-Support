@@ -9,7 +9,7 @@ collections:
   downloads:
     output:      true
     permalink:   /:categories/:title/
-baseurl:             "https://robqiao.github.io/Phoenix-BioHub-Support/menu/announcements"
+baseurl:             #""
 url:                 "https://robqiao.github.io"
 github:	            		
   url:               "https://github.com/robqiao/Phoenix-BioHub-Support"
