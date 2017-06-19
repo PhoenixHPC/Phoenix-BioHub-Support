@@ -74,6 +74,7 @@ DEPENDENCIES
   html-proofer
   jekyll
   jekyll-paginate
+  tzinfo
 
 BUNDLED WITH
    1.14.6
