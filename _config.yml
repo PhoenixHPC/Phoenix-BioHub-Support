@@ -3,9 +3,9 @@ title:               Phoenix@BioHub Home
 tagline:             The place where Biology meets SuperComputers 
 description:         Phoenix@BioHub
 collections:
-#  announcements:
-#    output:      true
-#    permalink:   /:categories/:title/
+  announcements:
+    output:      true
+    # permalink:   /:categories/:title/
   downloads:
     output:      true
     permalink:   /:categories/:title/
