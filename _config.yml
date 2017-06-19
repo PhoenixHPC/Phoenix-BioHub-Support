@@ -12,7 +12,7 @@ collections:
 baseurl:             #""
 url:                 #"https://robqiao.github.io"
 github:	            		
-  url:               "https://github.com/robqiao/Phoenix-BioHub-Support"
+  url:               #"https://github.com/robqiao/Phoenix-BioHub-Support"
 author:		     	
   name:              "Robert Qiao"
   email:             "robert.qiao@adelaide.edu.au"
