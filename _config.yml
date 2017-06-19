@@ -1,7 +1,7 @@
 # Site Settings
-title:               Manifest's Blog
-tagline:             The place where the fun starts
-description:
+title:               Phoenix@BioHub Home
+tagline:             The place where Biology meets SuperComputers 
+description:         "Phoenix@BioHub"
 collections:
   announcements:
     output:      true
@@ -9,13 +9,13 @@ collections:
   downloads:
     output:      true
     permalink:   /:categories/:title/
-baseurl:             "/PersonalBlog"
+baseurl:             "https://robqiao.github.io/Phoenix-BioHub-Support/menu/announcements"
 url:                 "https://robqiao.github.io"
 github:	            		
-  url:               #"https://github.com/robqiao/PersonalBlog"
+  url:               "https://github.com/robqiao/Phoenix-BioHub-Support"
 author:		     	
   name:              "Robert Qiao"
-  email:             "robert.qiao@flinders.edu.au"
+  email:             "robert.qiao@adelaide.edu.au"
   twitter:           "robqiao"
   instagram:         #""
   facebook:          #""
