@@ -1,7 +1,7 @@
 # Site Settings
 title:               Phoenix@BioHub Home
 tagline:             The place where Biology meets SuperComputers 
-description:         "Phoenix@BioHub"
+description:         Phoenix@BioHub
 collections:
   announcements:
     output:      true
@@ -9,8 +9,8 @@ collections:
   downloads:
     output:      true
     permalink:   /:categories/:title/
-baseurl:             #""
-url:                 #"https://robqiao.github.io"
+baseurl:             "/Phoenix-BioHub-Support"
+url:                 "https://robqiao.github.io"
 github:	            		
   url:               #"https://github.com/robqiao/Phoenix-BioHub-Support"
 author:		     	
