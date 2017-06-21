@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 image:
-  feature: PhoenixHPC.jpg
+  feature: Phoenix.jpg
   credit:  Phoenix 
   creditlink: "adelaide.edu.au/phoenix"
 ---
