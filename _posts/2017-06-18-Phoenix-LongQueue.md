@@ -5,10 +5,10 @@ categories: journal
 tags: [documentation]
 comments: true
 image:  
-  feature:
+  feature: PhoenixHPC.jpg
   teaser:
   credit:
-  creditlink: ""
+  creditlink: "adelaide.edu.au/phoenix"
 ---
 
 Phoenix is now support "longq" partition, which has the wall-time expanded to 7 days as opposed to the standard 3 days on "batch" partition.
