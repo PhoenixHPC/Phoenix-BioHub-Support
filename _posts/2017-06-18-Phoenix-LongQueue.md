@@ -5,8 +5,8 @@ categories: journal
 tags: [documentation]
 comments: true
 image:  
-  feature: PhoenixHPC.jpg
-  teaser:  PhoenixHPC-teaser.jpg
+  feature: Phoenix.jpg
+  teaser:  Phoenix-teaser.jpg
   credit:
   creditlink: "adelaide.edu.au/phoenix"
 ---
