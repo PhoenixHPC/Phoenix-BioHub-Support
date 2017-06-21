@@ -1,6 +1,12 @@
 ---
-layout: page
+layout: post
 title: About Us
+categories: pages
+tags: [aboutus]
+image:
+  feature: PhoenixHPC.jpg
+  credit:  Phoenix 
+  creditlink: "adelaide.edu.au/phoenix"
 ---
 
 This is Phoenix @ BioHub supporting Blog page, group updates, announcements and training information will all go here. <br>
