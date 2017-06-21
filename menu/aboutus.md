@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: page
 title: About Us
-categories: pages
-tags: [aboutus]
 image:
   feature: PhoenixHPC.jpg
   credit:  Phoenix 
