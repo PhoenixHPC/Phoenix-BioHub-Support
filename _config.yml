@@ -1,6 +1,6 @@
 # Site Settings
 title:               Phoenix@BioHub Home
-tagline:             The place where Biology meets SuperComputers 
+tagline:             The place where Biology meets SuperComputers
 description:         Phoenix@BioHub
 collections:
   announcements:
@@ -11,9 +11,9 @@ collections:
     permalink:   /:categories/:title/
 baseurl:             "/Phoenix-BioHub-Support"
 url:                 "https://robqiao.github.io"
-github:	            		
+github:
   url:               #"https://github.com/robqiao/Phoenix-BioHub-Support"
-author:		     	
+author:
   name:              "Robert Qiao"
   email:             "robert.qiao@adelaide.edu.au"
   twitter:           "robqiao"
@@ -39,5 +39,5 @@ disqus:              "robqiao"
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
-permalink:	     none 
-gems:                [jekyll-paginate]
+permalink:	         none
+gems:                [jekyll-paginate, jekyll-feed]
