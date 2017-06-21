@@ -6,7 +6,7 @@ tags: [documentation]
 comments: true
 image:  
   feature: PhoenixHPC.jpg
-  teaser:  PhoenixHPC.jpg
+  teaser:  PhoenixHPC-teaser.jpg
   credit:
   creditlink: "adelaide.edu.au/phoenix"
 ---
