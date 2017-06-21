@@ -5,8 +5,8 @@ categories: journal
 tags: [documentation]
 comments: true
 image:  
-  feature: Phoenix.jpg
-  teaser:  Phoenix-teaser.jpg
+  feature: cards.jpg
+  teaser:  cards-teaser.jpg
   credit:
   creditlink: "adelaide.edu.au/phoenix"
 ---
