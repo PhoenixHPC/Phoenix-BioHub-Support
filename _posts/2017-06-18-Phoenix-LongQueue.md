@@ -2,7 +2,7 @@
 layout: post
 title: "Use long queue with Phoenix"
 categories: journal 
-tags: [documentation,intro]
+tags: [phoenix,intro]
 comments: true
 image:  
   feature: cards.jpg
