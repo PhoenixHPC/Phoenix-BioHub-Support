@@ -5,8 +5,8 @@ categories: journal
 tags: [biology]
 comments: true
 image:  
-  feature: DataArray.png
-  teaser:  DataArray.png
+  feature: Organoids.png
+  teaser:  Organoids-teaser.png
   credit:
   creditlink: "adelaide.edu.au/phoenix"
 ---
