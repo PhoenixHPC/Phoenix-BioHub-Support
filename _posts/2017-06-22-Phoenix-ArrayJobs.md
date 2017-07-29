@@ -5,8 +5,8 @@ categories: journal
 tags: [phoenix]
 comments: true
 image:  
-  feature: DataArray.png
-  teaser:  DataArray.png
+  feature: DataArray.jpg
+  teaser:  DataArray-teaser.jpg
   credit:
   creditlink: "adelaide.edu.au/phoenix"
 ---
