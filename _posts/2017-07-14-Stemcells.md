@@ -6,7 +6,7 @@ tags: [biology]
 comments: true
 image:  
   feature: Stemcell.jpg
-  teaser:  Stemcell.png
+  teaser:  Stemcell-teaser.jpg
   credit:
   creditlink: ""
 ---
