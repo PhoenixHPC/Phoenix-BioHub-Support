@@ -5,8 +5,8 @@ categories: journal
 tags: [biology]
 comments: true
 image:  
-  feature: Stemcell.jpg
-  teaser:  Stemcell-teaser.jpg
+  feature: Stemcell.jpeg
+  teaser:  Stemcell-teaser.jpeg
   credit:
   creditlink: “http://nhsjs.com/2016/report-stem-cell-research-science-and-policy/“
 ---
