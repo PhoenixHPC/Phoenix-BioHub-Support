@@ -5,7 +5,7 @@ title: Announcements
 <ul class="announcements">
   {% for announcement in site.announcements %}
  
-    {% unless announcement.previous %}
+    {% unless announcement.next %}
       <h3>{{ announcement.date | date: '%Y' }} </h3>
     {% else %}
       {% capture year %}{{ announcement.date | date: '%Y' }}{% endcapture %}
