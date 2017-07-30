@@ -39,5 +39,5 @@ disqus:              "robqiao"
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
-permalink:	         none
+permalink:	     none
 gems:                [jekyll-paginate, jekyll-feed]
