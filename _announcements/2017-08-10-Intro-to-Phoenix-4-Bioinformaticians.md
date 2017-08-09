@@ -1,3 +1,17 @@
+---
+layout:	announcement
+title: 	"Introduction to Phoenix for Bioinformaticians"
+date:   '2017-08-10 9:00:00 +0930'
+categories: communications
+tags: [announcement,training]
+permalink: /:categories/:title/
+comments: true
+image:
+  feature:    Linux.jpg
+  credit:     WallpaperCave
+  creditlink: "http://wallpapercave.com/red-hat-wallpaper"
+---
+
 ##Introduction to Phoenix (UofA HPC) for Bioinformaticians
 ###Who is this workshop for?
 Does my work involve computational intensive tasks? Do I want to know more about the state-of-art computing facilities the University provide to use (for FREE)? Am I new to high performance computing (HPC) filed? Do I know some Linux/Unix and want to know how to operate under high performance computing (HPC) environment? If you answer to most of the questions are YES, then we are expecting to see you.
