@@ -1,1 +1,4 @@
-/_site/*
+# gitignore lists
+
+# Ignore Folders
+_site/**
