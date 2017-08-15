@@ -40,6 +40,7 @@ disqus:              "robqiao"
 markdown:            kramdown
 highlighter:         rouge
 permalink:	     none
+gems:		     [jekyll-paginate]		
 plugins_dir:
    - jekyll-feed
    - jekyll-email-protect
