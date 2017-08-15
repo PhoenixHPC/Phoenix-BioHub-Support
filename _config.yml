@@ -39,7 +39,7 @@ disqus:              "robqiao"
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
-permalink:	     none
+# permalink:	     none
 gems:		     [jekyll-paginate, jekyll-email-protect]		
 plugins_dir:
    - jekyll-feed
