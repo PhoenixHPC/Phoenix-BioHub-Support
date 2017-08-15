@@ -42,4 +42,4 @@ highlighter:         rouge
 permalink:	     none
 plugins_dir:
    - jekyll-feed
-#   - jekyll-email-protect
+   - jekyll-email-protect
