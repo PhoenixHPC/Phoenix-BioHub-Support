@@ -1,6 +1,0 @@
-#!/usr/bin/env bash 
-
-set -e # halt script on error
-
-bundle exec jekyll build
-bundle exec htmlproofer  --disable-external --assume-extension --allow-hash-href --empty-alt-ignore True ./_site 
