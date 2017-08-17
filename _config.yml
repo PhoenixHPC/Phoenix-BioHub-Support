@@ -2,15 +2,8 @@
 title:               Phoenix@BioHub Home
 tagline:             The place where Biology meets SuperComputers
 description:         Phoenix@BioHub
-collections:
-  announcements:
-    output:      true
-    permalink:   /:categories/:title/
-  downloads:
-    output:      true
-    permalink:   /:categories/:title/
 baseurl:             "/Phoenix-BioHub-Support"
-url:                 "https://robqiao.github.io"
+url:                 "https://robqiao.github.io/Phoenix-BioHub-Support"
 github:
   url:               #"https://github.com/robqiao/Phoenix-BioHub-Support"
 author:
@@ -33,6 +26,7 @@ navigation:
 - title: Contact Us
   url: /contactus
 
+# Plugins
 paginate:            5
 disqus:              "robqiao"
 
@@ -40,4 +34,19 @@ disqus:              "robqiao"
 markdown:            kramdown
 highlighter:         rouge
 permalink:	     none
-gems:                [jekyll-paginate, jekyll-feed, jekyll-email-protect]
+gems:		     [jekyll-paginate, jekyll-email-protect]		
+plugins_dir:
+   - jekyll-feed
+   - jekyll-email-protect
+
+# Where things are
+layouts_dir: _layouts
+destination: ./_site
+includes_dir: _includes
+collections:
+  announcements:
+    output:      true
+    permalink:   /:categories/:title/
+  downloads:
+    output:      true
+    permalink:   /:categories/:title/
