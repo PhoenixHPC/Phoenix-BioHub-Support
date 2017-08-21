@@ -35,14 +35,20 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:	     none
 <<<<<<< HEAD
+<<<<<<< HEAD
 plugins:	     [jekyll-paginate, jekyll-email-protect, jekyll-sitemap, jekyll-feed]		
 
 # Jekyll feed settings
 =======
+=======
+>>>>>>> parent of a0d4654... backend update + atom feed function
 gems:		     [jekyll-paginate, jekyll-email-protect]		
 plugins_dir:
    - jekyll-feed
    - jekyll-email-protect
+<<<<<<< HEAD
+>>>>>>> parent of a0d4654... backend update + atom feed function
+=======
 >>>>>>> parent of a0d4654... backend update + atom feed function
 
 # Where things are
