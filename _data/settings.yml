@@ -1,6 +1,6 @@
 title:          Phoenix@BioHub Home	
 tagline:	The place where Biology meets SuperComputers	
-#baseurl:        "/Phoenix-BioHub-Support"
+baseurl:        "/Phoenix-BioHub-Support"
 url:            "https://robqiao.github.io"
 
 author:

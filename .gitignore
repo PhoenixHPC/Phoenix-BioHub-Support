@@ -1,6 +1,6 @@
 # gitignore lists
-Gemfile
-Gemfile.lock
+#Gemfile
+#Gemfile.lock
 
 # Ignore Folders
 _site
