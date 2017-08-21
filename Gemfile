@@ -5,6 +5,7 @@ source "https://rubygems.org"
 <<<<<<< HEAD
 <<<<<<< HEAD
 gem 'github-pages', group: :jekyll_plugins
+<<<<<<< HEAD
 gem "html-proofer"		
 =======
 =======
@@ -22,4 +23,6 @@ gem "html-proofer"
 =======
 >>>>>>> parent of a0d4654... backend update + atom feed function
 >>>>>>> a3820a26e74cbbc9a6205c76eabbe9b01480b9aa
+=======
+>>>>>>> parent of d4ee181... backend update debug
 gem "jekyll-email-protect"

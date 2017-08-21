@@ -41,6 +41,7 @@ permalink:	     none
 plugins:	     [jekyll-paginate, jekyll-email-protect, jekyll-sitemap, jekyll-feed]		
 
 # Jekyll feed settings
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> parent of a0d4654... backend update + atom feed function
@@ -56,6 +57,9 @@ plugins_dir:
 =======
 >>>>>>> parent of a0d4654... backend update + atom feed function
 >>>>>>> a3820a26e74cbbc9a6205c76eabbe9b01480b9aa
+=======
+title:               "{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"
+>>>>>>> parent of d4ee181... backend update debug
 
 # Where things are
 layouts_dir: _layouts
