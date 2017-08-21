@@ -1,13 +1,49 @@
 # Site Settings
+title:               Phoenix@BioHub Home
+tagline:             The place where Biology meets SuperComputers
+description:         Phoenix@BioHub
+baseurl:             "/Phoenix-BioHub-Support"
+url:                 "https://robqiao.github.io"
+github:
+  url:               #"https://github.com/robqiao/Phoenix-BioHub-Support"
+author:
+  name:              "Robert Qiao"
+  email:             "robert.qiao@adelaide.edu.au"
+  twitter:           "robqiao"
+  instagram:         #""
+  facebook:          #""
+  github:            "robqiao"
+  linkedin:          "robqiao"
+navigation:
+- title: About Us
+  url: /aboutus
+- title: News
+  url: /announcements
+- title: Blogs
+  url: /blogs
+- title: Downloads
+  url: /downloads
+- title: Contact Us
+  url: /contactus
+
+# Plugins
 paginate:            5
+disqus:              "robqiao"
 
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
 permalink:	     none
+<<<<<<< HEAD
 plugins:	     [jekyll-paginate, jekyll-email-protect, jekyll-sitemap, jekyll-feed]		
 
 # Jekyll feed settings
+=======
+gems:		     [jekyll-paginate, jekyll-email-protect]		
+plugins_dir:
+   - jekyll-feed
+   - jekyll-email-protect
+>>>>>>> parent of a0d4654... backend update + atom feed function
 
 # Where things are
 layouts_dir: _layouts
