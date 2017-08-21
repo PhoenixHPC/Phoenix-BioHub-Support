@@ -34,10 +34,28 @@ disqus:              "robqiao"
 markdown:            kramdown
 highlighter:         rouge
 permalink:	     none
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+plugins:	     [jekyll-paginate, jekyll-email-protect, jekyll-sitemap, jekyll-feed]		
+
+# Jekyll feed settings
+=======
+=======
+>>>>>>> parent of a0d4654... backend update + atom feed function
+>>>>>>> a3820a26e74cbbc9a6205c76eabbe9b01480b9aa
 gems:		     [jekyll-paginate, jekyll-email-protect]		
 plugins_dir:
    - jekyll-feed
    - jekyll-email-protect
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> parent of a0d4654... backend update + atom feed function
+=======
+>>>>>>> parent of a0d4654... backend update + atom feed function
+>>>>>>> a3820a26e74cbbc9a6205c76eabbe9b01480b9aa
 
 # Where things are
 layouts_dir: _layouts
