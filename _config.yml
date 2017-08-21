@@ -5,20 +5,20 @@ paginate:            5
 markdown:            kramdown
 highlighter:         rouge
 permalink:	     none
-plugins:	     [jekyll-paginate, jekyll-sitemap, jekyll-feed]		
-#plugins:	     [jekyll-paginate, jekyll-email-protect, jekyll-sitemap, jekyll-feed]		
+#plugins:	     [jekyll-paginate, jekyll-sitemap, jekyll-feed]		
+plugins:	     [jekyll-paginate, jekyll-email-protect, jekyll-sitemap, jekyll-feed]		
 
 # Jekyll feed settings
 title:               "{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"
 
 # Where things are
-#layouts_dir: _layouts
-#destination: ./_site
-#includes_dir: _includes
-#collections:
-#  announcements:
-#    output:      true
-#    permalink:   /:categories/:title/
-#  downloads:
-#    output:      true
-#    permalink:   /:categories/:title/
+layouts: _layouts
+destination: ./_site
+includes: _includes
+collections:
+  announcements:
+    output:      true
+    permalink:   /:categories/:title/
+  downloads:
+    output:      true
+    permalink:   /:categories/:title/
