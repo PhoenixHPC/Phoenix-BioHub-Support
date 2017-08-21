@@ -23,6 +23,5 @@ social:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 
 # Plugins
-paginate:            5
 disqus:              "robqiao"
 google-ID:	'UA-104989198-1'
