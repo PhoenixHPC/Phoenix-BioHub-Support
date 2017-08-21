@@ -4,11 +4,11 @@ paginate:            5
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
-permalink:	     none
 plugins:	     
  - jekyll-paginate
  - jekyll-sitemap
  - jekyll-feed		
+
 #plugins:	     [jekyll-paginate, jekyll-email-protect, jekyll-sitemap, jekyll-feed]		
 
 # Feed settings
@@ -17,6 +17,7 @@ title:               "{{ site.data.settings.title }} | {{ site.data.settings.tag
 # Where things are
 layouts: _layouts
 destination: ./_site
+settings: _data
 includes: _includes
 collections:
   announcements:
