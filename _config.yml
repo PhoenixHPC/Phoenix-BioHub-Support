@@ -5,10 +5,13 @@ paginate:            5
 markdown:            kramdown
 highlighter:         rouge
 permalink:	     none
-#plugins:	     [jekyll-paginate, jekyll-sitemap, jekyll-feed]		
-plugins:	     [jekyll-paginate, jekyll-email-protect, jekyll-sitemap, jekyll-feed]		
+plugins:	     
+ - jekyll-paginate
+ - jekyll-sitemap
+ - jekyll-feed		
+#plugins:	     [jekyll-paginate, jekyll-email-protect, jekyll-sitemap, jekyll-feed]		
 
-# Jekyll feed settings
+# Feed settings
 title:               "{{ site.data.settings.title }} | {{ site.data.settings.tagline }}"
 
 # Where things are
