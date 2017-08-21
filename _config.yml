@@ -17,7 +17,6 @@ title:               "{{ site.data.settings.title }} | {{ site.data.settings.tag
 # Where things are
 layouts: _layouts
 destination: ./_site
-settings: _data
 includes: _includes
 collections:
   announcements:
