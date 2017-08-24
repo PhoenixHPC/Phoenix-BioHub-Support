@@ -7,8 +7,8 @@ comments: true
 image:  
   feature: Stemcell.jpeg
   teaser:  Stemcell-teaser.jpeg
-  credit:
-  creditlink: “http://nhsjs.com/2016/report-stem-cell-research-science-and-policy/“
+  credit:  nhsjs
+  creditlink: “nhsjs.com/2016/report-stem-cell-research-science-and-policy/“
 ---
 
 Stem cells have unique pluripotent potential to further differentiate to any cell type in human, therefore the potentials of applying stem cells to repaire damaged cells are immense. In fact, stem cells therapies have been the sizzling hot topic for the last decade within academic cycles. Current research and [clinical trails in stem cell therapies](https://www.centerwatch.com/clinical-trials/listings/condition/467/stem-cell-transplant) are extremely active and have shown some dramatic improvements and convincing evidence particular in Neurodegeneration diseases like [ Alzheimer's disease](https://www.sciencedaily.com/releases/2009/07/090720190726.htm), [multiple sclerosis](http://onlinelibrary.wiley.com/doi/10.1111/imj.12944/abstract); [Brain and spinal cord injury](http://www.bbc.com/news/health-22646103); 
