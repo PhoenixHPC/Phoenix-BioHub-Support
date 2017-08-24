@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Use long queue with Phoenix"
+title: Use long queue with Phoenix
 categories: journal 
-tags: [phoenix,intro]
+tags: [phoenix, news, intro]
 comments: true
 image:  
   feature: cards.jpg
