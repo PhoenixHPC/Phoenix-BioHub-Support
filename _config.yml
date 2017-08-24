@@ -1,15 +1,15 @@
 # Site Settings
 # Plugins
-disqus:              "robqiao"
+paginate:            5
 
 # Build Settings
 markdown:            kramdown
 highlighter:         rouge
-plugin_dir:	     
+plugins:	     
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-email-protect		
+# - jekyll-email-protect		
 
 # Feed settings
 title:		     "Phoenix@BioHub Home | The place where Biology meets SuperComputers"
