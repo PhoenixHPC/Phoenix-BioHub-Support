@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Stem Cell Therapy”
+title: Stem Cell Therapy
 categories: journal 
 tags: [biology]
 comments: true
