@@ -18,6 +18,3 @@ social:
 - {icon: 'rss-square', link: 'https://robqiao.github.io/Phoenix-BioHub-Support/feed.xml'}
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 
-# Plugins
-disqus:              "robqiao"
-google-ID:	     "UA-104989198-1"

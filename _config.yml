@@ -1,6 +1,8 @@
 # Site Settings
 # Plugins
 paginate:            5
+disqus:              "robqiao"
+google-ID:           "UA-104989198-1"
 
 # Build Settings
 markdown:            kramdown
