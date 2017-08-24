@@ -5,7 +5,11 @@ disqus:              "robqiao"
 # Build Settings
 markdown:            kramdown
 highlighter:         rouge
-plugins_dir:	     [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-email-protect]		
+plugin_dir:	     
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-email-protect		
 
 # Feed settings
 title:		     "Phoenix@BioHub Home | The place where Biology meets SuperComputers"
