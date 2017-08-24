@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Array Jobs"
+title: Array Jobs
 categories: journal 
-tags: [phoenix]
+tags: [phoenix, intro]
 comments: true
 image:  
   feature: DataArray.jpg
