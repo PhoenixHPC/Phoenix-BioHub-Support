@@ -23,7 +23,7 @@ comments: true
     {% when '3' or '23' %}{{ d }}rd
     {% else %}{{ d }}th{% endcase %},
   {{ page.date | date: "%Y" }}
-  by {{ site.author.name }}
+  by {{ site.data.authors.RobertQiao.name }}
 </span>
 
 {% include social-sharing.html %}
