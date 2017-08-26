@@ -52,8 +52,8 @@ useful. If you require [a step-by-step
 guide](https://support.mozilla.org/en-US/kb/find-and-install-add-ons-add-features-to-firefox) to
 install a FireFox plug-ins, I hope [this
 post](https://support.mozilla.org/en-US/kb/find-and-install-add-ons-add-features-to-firefox) helps. \\ <br>
-\\
-> I hope you find this post informative, if you want to know a bit more about [how to use syndication
+
+I hope you find this post informative, if you want to know a bit more about [how to use syndication
 feeds](https://www.digitaltrends.com/computing/how-to-use-rss/), I hope this [simple guide of
 syndication](https://www.digitaltrends.com/computing/how-to-use-rss/) post can answer some of your
 questions. If you are interested in the more technical aspects of RSS-2.0 and Atom-v1.0, 
@@ -61,8 +61,8 @@ more readings about [RSS-2.0 and Atom-1.0
 compared](https://www.intertwingly.net/wiki/pie/Rss20AndAtom10Compared) may satisfy your appetite.
 Please leave me any comments or drop me a line below if have any thing would like discuss. 
 \\
-> Bye for now. 
+Bye for now. 
 \\
 \\
-> From Robert 
+From Robert 
 
