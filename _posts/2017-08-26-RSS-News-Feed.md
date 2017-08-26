@@ -51,7 +51,7 @@ install a Chrome plug-in, in case you may find
 useful. If you require [a step-by-step
 guide](https://support.mozilla.org/en-US/kb/find-and-install-add-ons-add-features-to-firefox) to
 install a FireFox plug-ins, I hope [this
-post](https://support.mozilla.org/en-US/kb/find-and-install-add-ons-add-features-to-firefox) helps. <br>
+post](https://support.mozilla.org/en-US/kb/find-and-install-add-ons-add-features-to-firefox) helps. \\ <br>
 
 I hope you find this post informative, if you want to know a bit more about [how to use syndication
 feeds](https://www.digitaltrends.com/computing/how-to-use-rss/), I hope this [simple guide of
@@ -63,6 +63,6 @@ Please leave me any comments or drop me a line below if have any thing would lik
 <br>
 <br>
 Bye for now. 
-\\
+<br>
 From Robert 
 
