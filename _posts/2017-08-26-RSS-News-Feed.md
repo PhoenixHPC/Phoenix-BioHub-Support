@@ -36,7 +36,7 @@ notification etc.
 right coner or on the botton of this page to subscribe to this webpage to get all the updates once
 new content arrives. If you need [a step-by-step
 guide](http://osxdaily.com/2014/11/03/subscribe-rss-feeds-safari-os-x/), I hope
-[this](http://osxdaily.com/2014/11/03/subscribe-rss-feeds-safari-os-x/)helps. 
+[this](http://osxdaily.com/2014/11/03/subscribe-rss-feeds-safari-os-x/) helps. 
 > > * For the users using Google Chrome, you may need to install a feed aggregator plug-in, like [RSS
 Feed
 Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp?
