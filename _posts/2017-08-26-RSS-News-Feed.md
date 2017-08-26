@@ -60,8 +60,8 @@ questions. If you are interested in the more technical aspects of RSS-2.0 and At
 more readings about [RSS-2.0 and Atom-1.0
 compared](https://www.intertwingly.net/wiki/pie/Rss20AndAtom10Compared) may satisfy your appetite.
 Please leave me any comments or drop me a line below if have any thing would like discuss. 
-\\
-\\
+<br>
+<br>
 Bye for now. 
 \\
 From Robert 
