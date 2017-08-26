@@ -44,7 +44,7 @@ hl=en). There are many available similar plug-ins on [chrome web
 store](https://chrome.google.com/webstore/search/feed?hl=en), pick the one appealing to you. Here
 includes [a step-by-step guide](https://support.google.com/chrome_webstore/answer/2664769?hl=en) to
 install a Chrome plug-in, in case you may find
-[it](https://support.google.com/chrome_webstore/answer/2664769?hl=en) useful.
+[this info](https://support.google.com/chrome_webstore/answer/2664769?hl=en) useful.
 * For the users prefer FireFox, similar to Chrome, a plug-in would be a reasonable approach, like
 [feedly](https://addons.mozilla.org/en-US/firefox/addon/feedly/). You may also find
 [RSS-feed-icon-in-navbar]https://addons.mozilla.org/en-US/firefox/addon/rss-feed-icon-in-navbar/)
@@ -52,10 +52,16 @@ useful. If you require [a step-by-step
 guide](https://support.mozilla.org/en-US/kb/find-and-install-add-ons-add-features-to-firefox) to
 install a FireFox plug-ins, I hope [this
 post](https://support.mozilla.org/en-US/kb/find-and-install-add-ons-add-features-to-firefox) helps. 
-\\
+<br><br>
 I hope you find this post informative, if you want to know a bit more about [how to use syndication
-feeds](https://www.digitaltrends.com/computing/how-to-use-rss/), I hope this [simple guide of syndication](https://www.digitaltrends.com/computing/how-to-use-rss/) post can answer some of your questions. If you are interested in the more technical aspects of RSS-2.0 and Atom-v1.0, 
-more readings about [RSS-2.0 and Atom-1.0 compared](https://www.intertwingly.net/wiki/pie/Rss20AndAtom10Compared) may satisfy your appetite. Please leave me any comments or drop me a line below if have any thing would like discuss. Bye for now. 
+feeds](https://www.digitaltrends.com/computing/how-to-use-rss/), I hope this [simple guide of
+syndication](https://www.digitaltrends.com/computing/how-to-use-rss/) post can answer some of your
+questions. If you are interested in the more technical aspects of RSS-2.0 and Atom-v1.0, 
+more readings about [RSS-2.0 and Atom-1.0
+compared](https://www.intertwingly.net/wiki/pie/Rss20AndAtom10Compared) may satisfy your appetite.
+Please leave me any comments or drop me a line below if have any thing would like discuss. 
+\\
+Bye for now. 
 \\
 \\
 From Robert 
