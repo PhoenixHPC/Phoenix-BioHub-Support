@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using RSS/Atom feed to keep updated with development  
+title: Using RSS/Atom feed to keep updated with developments 
 categories: journal 
 tags: [socialmedia, news, intro]
 comments: true
