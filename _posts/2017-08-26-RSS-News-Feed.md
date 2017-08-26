@@ -47,7 +47,7 @@ install a Chrome plug-in, in case you may find
 [this info](https://support.google.com/chrome_webstore/answer/2664769?hl=en) useful.
 > > * For the users prefer FireFox, similar to Chrome, a plug-in would be a reasonable approach, like
 [feedly](https://addons.mozilla.org/en-US/firefox/addon/feedly/). You may also find
-[RSS-feed-icon-in-navbar]https://addons.mozilla.org/en-US/firefox/addon/rss-feed-icon-in-navbar/)
+[RSS-feed-icon-in-navbar](https://addons.mozilla.org/en-US/firefox/addon/rss-feed-icon-in-navbar/)
 useful. If you require [a step-by-step
 guide](https://support.mozilla.org/en-US/kb/find-and-install-add-ons-add-features-to-firefox) to
 install a FireFox plug-ins, I hope [this
