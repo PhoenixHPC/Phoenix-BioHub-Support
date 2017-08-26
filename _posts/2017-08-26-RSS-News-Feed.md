@@ -52,7 +52,7 @@ useful. If you require [a step-by-step
 guide](https://support.mozilla.org/en-US/kb/find-and-install-add-ons-add-features-to-firefox) to
 install a FireFox plug-ins, I hope [this
 post](https://support.mozilla.org/en-US/kb/find-and-install-add-ons-add-features-to-firefox) helps. 
-\\
+\\ \\
 > I hope you find this post informative, if you want to know a bit more about [how to use syndication
 feeds](https://www.digitaltrends.com/computing/how-to-use-rss/), I hope this [simple guide of
 syndication](https://www.digitaltrends.com/computing/how-to-use-rss/) post can answer some of your
