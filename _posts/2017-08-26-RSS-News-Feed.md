@@ -37,17 +37,15 @@ right coner or on the botton of this page to subscribe to this webpage to get al
 new content arrives. If you need [a step-by-step
 guide](http://osxdaily.com/2014/11/03/subscribe-rss-feeds-safari-os-x/), I hope
 [this](http://osxdaily.com/2014/11/03/subscribe-rss-feeds-safari-os-x/) helps. 
-> > * For the users using Google Chrome, you may need to install a feed aggregator plug-in, like [RSS
-Feed
-Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp?
+> > * For the users using Google Chrome, you may need to install a feed aggregator plug-in, like ["RSS Feed Reader"](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp?
 hl=en). There are many available similar plug-ins on [chrome web
 store](https://chrome.google.com/webstore/search/feed?hl=en), pick the one appealing to you. Here
 includes [a step-by-step guide](https://support.google.com/chrome_webstore/answer/2664769?hl=en) to
 install a Chrome plug-in, in case you may find
 [this info](https://support.google.com/chrome_webstore/answer/2664769?hl=en) useful.
 > > * For the users prefer FireFox, similar to Chrome, a plug-in would be a reasonable approach, like
-[feedly](https://addons.mozilla.org/en-US/firefox/addon/feedly/). You may also find
-[RSS-feed-icon-in-navbar](https://addons.mozilla.org/en-US/firefox/addon/rss-feed-icon-in-navbar/)
+["feedly"](https://addons.mozilla.org/en-US/firefox/addon/feedly/). You may also find
+["RSS-feed-icon-in-navbar"](https://addons.mozilla.org/en-US/firefox/addon/rss-feed-icon-in-navbar/)
 useful. If you require [a step-by-step
 guide](https://support.mozilla.org/en-US/kb/find-and-install-add-ons-add-features-to-firefox) to
 install a FireFox plug-ins, I hope [this
