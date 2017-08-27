@@ -2,7 +2,7 @@
 layout: post
 title: Using RSS/Atom feed to keep updated with developments 
 categories: journal 
-tags: [socialmedia, news, intro]
+tags: [socialmedia, intro]
 comments: true
 image:  
   feature: RSS.png
