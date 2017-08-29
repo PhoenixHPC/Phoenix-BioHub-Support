@@ -3,7 +3,7 @@ layout: page
 title:  Workshops
 ---
 
-Phoenix Team @ UofA offers many training programs and workshops. Following list contains past and present training materials.
+#### Phoenix Team @ UofA offers many training programs and workshops. Following list contains past and present training materials.
 
 <ul class="training">
   {% for training in site.trainings reversed%}

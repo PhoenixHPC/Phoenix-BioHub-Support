@@ -29,3 +29,6 @@ collections:
   downloads:
     output:      true
     permalink:   /:categories/:title/
+  trainings:
+    output:      true
+    permalink:   /:categories/:title/
