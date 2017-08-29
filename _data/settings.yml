@@ -7,7 +7,7 @@ menu:
 - {name: 'About Us', url: 'aboutus.html'}
 - {name: 'News', url: 'announcements.html'}
 - {name: 'Blogs', url: 'blogs.html'}
-- {name: 'Workshops', url: 'training.html'}
+- {name: 'Workshops', url: 'trainings.html'}
 - {name: 'Downloads', url: 'downloads.html'}
 - {name: 'Contact Us', url: 'contactus.html'}
 
