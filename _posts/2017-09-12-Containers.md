@@ -11,7 +11,7 @@ image:
   creditlink: "cloudacademy.com"
 ---
 
-== Preface ==
+## Preface
 Is your code complex and have a lot of dependencies? Are you frastrated by the fact that your code
 is not compiling and complaining about the version conflict? This is the situation you will need the
 support of a contained environment. 
@@ -26,7 +26,7 @@ superiority.
 To understand why container is more superior, we have to understand more about architectural
 underline the container and VMs.
 
-=== Virtual Machines ===
+### Virtual Machines
 A VM is essentially an emulation of a physical computer and the execution of applications follows
 the same procedures as a physical computer would. This is because VMs run on top of a physical
 machine using a layer so called "hypervisor" or "virtual machine monitor" (VMM). A "hypervisor" is a
@@ -46,7 +46,7 @@ Katzan, 1970](https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3
 0ahUKEwi03Me_0p7WAhWLjLwKHb1yAPUQFggrMAI&url=https%3A%2F%2Fwww.computer.org%2Fcsdl%2Fproceedings%
 2Fafips%2F1970%2F5075%2F00%2F50750109.pdf&usg=AFQjCNEjSj3yIa3LUEJth_4vfO150T1y9g) and [a book by
 Clinton McIntosh,
-1970](https://www.amazon.de/Analysis-Major-Computer-Operating-Systems/dp/B00B06YA18)  
+1970](https://www.amazon.de/Analysis-Major-Computer-Operating-Systems/dp/B00B06YA18).)  
 \\
 A VM contains both the applications (i.e. the part you will be interested as
 bioinformatician) and whatever the supports are required to run that application (e.g. system
@@ -55,7 +55,8 @@ virtualised hardware stack of its own (e.g. virtualised CPU, network adaptors an
 fully fledged guest operating system with its own dedicated resources (virtualised from host
 machine's distribution). VM can run on __host machine__ in one of two modes: as a _hosted
 hypervisor__ or as a __bare-metal hypervisor__. They are fundamentally different. 
-==== Hosted Hypervisor ====
+
+#### Hosted Hypervisor 
 A _hosted hypervisor_ runs through the operating sstem of the _host machine_. The benefit of a
 _hosted hypervisor_ is largely sweep away the importance of the underlying hardware, this is due to
 the fact that the host operating system is handling the hardware communications. Therefore the
@@ -63,7 +64,7 @@ _hosted hypervisor_ is useful in the situation where the hardware compatibility 
 priority list. On the flip side, _hosted hypervisor_ inevitably invert an additional layer between
 hardware and application, the consequences can be more resource overhead and result a resource
 hungry application, lower VM performace.  
-====Bare-metal Hypervisor====
+#### Bare-metal Hypervisor
 Contrary to _hosted hypervisor_, a _bare metal hypervisor_ environment improves performance by
 directly run on host machine's hardware. In turn, a _bare-metal hypervisor_ needs its own operating
 system and own device drivers to be able to interact with underline hardware (e.g. I/O, kernel
@@ -77,7 +78,7 @@ compatibility.
 \\
 <code data-gist-id="fe0b1428d6fff82984c51ffe6430216f" data-gist-file="VM_Arch.png"></code>
 
-=== Containers ===
+### Containers
 As oppose to VMs' virtualisation at hardware level, __Containers__ provides virtualisation at
 operating-system-level by abstracting the so-called "user space". Like VM, Containers also have
 private processing space, private network interface, IP address (allow customised routes and iptable
@@ -101,6 +102,6 @@ Docker containers have several advantages:
 1. Docker Hub. Rich ecosystem of Docker Hub, there is almost certain to have an docker image to suit your needs. 
 1. Modularity and Scalability. 
 
-In the next post, we will be talking through the fundamentals of Docker concepts and implementation. Stay tunned. 
-\\
+In the next post, we will be talking through the fundamentals of Docker concepts and implementation. Stay tuned. 
+<br><br>
 From Robert 
