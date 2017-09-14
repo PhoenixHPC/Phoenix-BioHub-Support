@@ -19,4 +19,8 @@ stepping stone to get into the HPC field. In this workshop, we will forcus on so
 <br><br>
 ### [**Start "Introduction to Linux for Phoenix Users"**](https://robqiao.github.io/Intro-Bash/)
 <br>
+Please also remember to provide us feedback at the end of the class, your feedback will help us to better prepare for future trainings and shape your learning experience. 
+<br>
+[_Provide feedback_](https://goo.gl/gqwQ1e)
+<br><br> 
 From Phoenix Team
