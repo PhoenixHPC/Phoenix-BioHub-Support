@@ -1,6 +1,6 @@
 ---
 layout:	training 
-title: 	"Introduction to Linux"
+title: 	"Introduction to Linux for Phoenix Users"
 date:   '2017-08-29 17:00:00 +0930'
 categories: training
 tags: [training]
