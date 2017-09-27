@@ -1,6 +1,6 @@
 ---
 layout:	training 
-title: 	"Introduction to Linux"
+title: 	"Introduction to Linux for Phoenix Users"
 date:   '2017-08-29 17:00:00 +0930'
 categories: training
 tags: [training]
@@ -17,6 +17,10 @@ image:
 In this workshop, the Phoenix team will go through some basics of Linux with you. As Linux runs on almost all the **High Performance Computing** (HPC) facilities around the globe, this workshop will provid you a
 stepping stone to get into the HPC field. In this workshop, we will forcus on some of the most frequently used terminal commands in Linux and experiment with scripting. So without further do, let's get underway
 <br><br>
-### [**Start "Introduction to Linux for Phoenix Users"**](https://robqiao.github.io/Intro-Bash/)
+### [**Start "Introduction to Linux for Phoenix Users"**](https://phoenixhpc.github.io/Intro-Bash/)
 <br>
+Please also remember to provide us feedback at the end of the class, your feedback will help us to better prepare for future trainings and shape your learning experience. 
+<br><br>
+[_Provide Us feedback_](https://goo.gl/gqwQ1e)
+<br><br> 
 From Phoenix Team
