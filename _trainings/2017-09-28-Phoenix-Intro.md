@@ -9,8 +9,7 @@ comments: true
 image: 
   feature:    HPCNight.png
   credit:     trendintech.com
-  creditlink:
-"http://trendintech.com/2017/05/15/even-quantum-computers-need-to-keep-their-cool-but-how-to-make-
+  creditlink: "trendintech.com/2017/05/15/even-quantum-computers-need-to-keep-their-cool-but-how-to-make-
 cool/"
 ---
 
