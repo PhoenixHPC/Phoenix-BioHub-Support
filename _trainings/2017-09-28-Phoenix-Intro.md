@@ -9,17 +9,30 @@ comments: true
 image: 
   feature:    HPCNight.png
   credit:     trendintech.com
-  creditlink: "http://trendintech.com/2017/05/15/even-quantum-computers-need-to-keep-their-cool-but-how-to-make-cool/"
+  creditlink:
+"http://trendintech.com/2017/05/15/even-quantum-computers-need-to-keep-their-cool-but-how-to-make-
+cool/"
 ---
 
-#### This post is for the workshop "Introduction to Phoenix for Bioinformaticians" on 28th September 
+#### This post is for the workshop "Introduction to Phoenix for Bioinformaticians" on 28th September
+#### 
+In this workshop, the Phoenix team will introduce world class and the state's most powerful __High
+Performance Computing__ (HPC) facility __Phoenix__. We will cover some basics about HPC
+in general, particularly we will introduce fundamentals of scheduling. 
 
-In this workshop, the Phoenix team will introduce the most powerful **High Performance Computing** (HPC) facility **Phoenix** in the state. We will cover some basics about HPC in general. As Linux runs on almost all the **High Performance Computing** (HPC) facilities around the globe, this workshop will provid you a
-stepping stone to get into the HPC field. In this workshop, we will forcus on some of the most frequently used terminal commands in Linux and experiment with scripting. So without further do, let's get underway
+The aim of this workshop is to provide you a stepping stone to get started with Phoenix. In addition
+to the informative lecture, you will also have opportunities to hand on some real examples and try
+to submit your first jobs to Phoenix. 
+
+__Before we dive in, please ensure you have an account on Phoenix. If you are unsure, please check
+with your friendly tutors before read further.__
+
+If you are all set, now 
 <br><br>
 ### [**Start "Introduction to Linux for Phoenix Users"**](https://phoenixhpc.github.io/Intro-Bash/)
 <br>
-Please also remember to provide us feedback at the end of the class, your feedback will help us to better prepare for future trainings and shape your learning experience. 
+Please also remember to provide us feedback at the end of the class, your feedback will help us to
+better prepare for future trainings and shape your learning experience. 
 <br><br>
 [_Provide Us feedback_](https://goo.gl/gqwQ1e)
 <br><br> 
