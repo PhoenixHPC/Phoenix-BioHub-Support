@@ -2,3 +2,5 @@
 
 # Ignore Folders
 /_site/
+# Files to ignore
+_config.yml
