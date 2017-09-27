@@ -1,0 +1,281 @@
+<!doctype html>
+<html>
+
+<head>
+
+  <title>
+    
+      Containers - to contain your complex environment dependencies | Phoenix@BioHub Home
+    
+  </title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="http://github.com/pages/robqiao/Phoenix-BioHub-Support/css/main.css">
+  <link rel="stylesheet" href="http://github.com/pages/robqiao/Phoenix-BioHub-Support/css/syntax.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quattrocento+Sans">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+  <script type="text/javascript" async
+    src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+  
+  <!-- Include jQuery and gist-embed src to splice part of gist -->
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/gist-embed/2.4/gist-embed.min.js"></script>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-104989198-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+  <!-- Use Atom -->
+  <link type="application/atom+xml" rel="alternate" href="/feed.xml" title="Phoenix@BioHub Home | The place where Biology meets SuperComputers" />
+
+</head>
+
+
+<body>
+
+  <div class="container">
+    <header class="masthead">
+  <h3 class="masthead-title">
+    <a href="http://github.com/pages/robqiao/Phoenix-BioHub-Support/">Phoenix@BioHub Home</a> <br/>
+    <small class="masthead-subtitle">The place where Biology meets SuperComputers</small>
+    <div class="menu">
+  <nav class="menu-content">
+    
+      <a href="http://github.com/pages/robqiao/Phoenix-BioHub-Support/menu/aboutus.html">About Us</a>
+    
+      <a href="http://github.com/pages/robqiao/Phoenix-BioHub-Support/menu/announcements.html">News</a>
+    
+      <a href="http://github.com/pages/robqiao/Phoenix-BioHub-Support/menu/blogs.html">Blogs</a>
+    
+      <a href="http://github.com/pages/robqiao/Phoenix-BioHub-Support/menu/trainings.html">Workshops</a>
+    
+      <a href="http://github.com/pages/robqiao/Phoenix-BioHub-Support/menu/downloads.html">Downloads</a>
+    
+      <a href="http://github.com/pages/robqiao/Phoenix-BioHub-Support/menu/contactus.html">Contact Us</a>
+    
+  </nav>
+  <nav class="social-icons">
+    
+      <a href="https://github.com/robqiao/Phoenix-BioHub-Support" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+    
+      <a href="https://twitter.com/robqiao" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+    
+      <a href="http://www.linkedin.com/in/robqiao/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+    
+      <a href="mailto:robert.qiao@adelaide.edu.au" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+    
+      <a href="https://robqiao.github.io/Phoenix-BioHub-Support/feed.xml" target="_blank"><i class="fa fa-rss-square" aria-hidden="true"></i></a>
+    
+  </nav>
+</div>
+
+  </h3>
+</header>
+
+
+    <div class="post-container">
+      <h1>
+  Containers - to contain your complex environment dependencies
+</h1>
+
+
+  <img src="http://github.com/pages/robqiao/Phoenix-BioHub-Support/images/cards.jpg">
+
+
+<p>==Preface==
+Is your code complex and have a lot of dependencies? Are you frastrated by the fact that your code
+is not compiling and complaining about the version conflict? This is the situation you will need the
+support of a contained environment. 
+<br />
+Containers have a simple goal in mind, that is to
+isolate an application and its dependencies into a self-contained unit that can run anywhere
+regardless of hardware and shell environment etc. Form this perspective, VMs serves a similar
+function, which you may be more familier. Nevertheless, container is regarded as superior approach
+compare to VM, which removes the needs for physical hardware emulator and have performance
+superiority.<br />
+<br />
+To understand why container is more superior, we have to understand more about architectural
+underline the container and VMs.</p>
+
+<p>===Virtual Machines===
+A VM is essentially an emulation of a physical computer and the execution of applications follows
+the same procedures as a physical computer would. This is because VMs run on top of a physical
+machine using a layer so called “hypervisor” or “virtual machine monitor” (VMM). A “hypervisor” is a
+piece of software, firmware and
+hardware emulator bundle that run directly on physical computers (which is called <strong>host machine</strong>
+under this context). The <strong>host machine</strong> provides physical resources like RAM and CPU etc.
+Hypervisors present the guest operating systems with a
+virtual operating platform and manages the execution of the guest operating systems. The
+resources provided by the <strong>host machine</strong> can be divided and distributed and multiple instances of
+a variety of operating systems may share the distributed resources after virtualisation by
+hypervisors. The name <strong>hypervisor</strong>  also reflects its nature as a controller of the operating
+system <em>kernel</em>, where <strong>hyper</strong> is a stronger term
+than <em>super</em> and <strong>hypervisor</strong> is translated as the <strong>supervisor</strong> of the <strong>supervisor</strong>. (If you
+are interested in the incarnation of term <strong>hypervisor</strong>, you may find following two items
+intersting: <a href="https://www.google.com.au/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;cad=rja&amp;uact=8&amp;ved=
+0ahUKEwi03Me_0p7WAhWLjLwKHb1yAPUQFggrMAI&amp;url=https%3A%2F%2Fwww.computer.org%2Fcsdl%2Fproceedings%
+2Fafips%2F1970%2F5075%2F00%2F50750109.pdf&amp;usg=AFQjCNEjSj3yIa3LUEJth_4vfO150T1y9g">original paper by Harry
+Katzan, 1970</a> and <a href="https://www.amazon.de/Analysis-Major-Computer-Operating-Systems/dp/B00B06YA18">a book by
+Clinton McIntosh,
+1970</a><br />
+<br />
+A VM contains both the applications (i.e. the part you will be interested as
+bioinformatician) and whatever the supports are required to run that application (e.g. system
+binaries and varies dependency libraries). In addition, a VM also carries an entire
+virtualised hardware stack of its own (e.g. virtualised CPU, network adaptors and storage) VM is a
+fully fledged guest operating system with its own dedicated resources (virtualised from host
+machine’s distribution). VM can run on <strong>host machine</strong> in one of two modes: as a <em>hosted
+hypervisor__ or as a <strong>bare-metal hypervisor</strong>. They are fundamentally different. 
+====Hosted Hypervisor====
+A _hosted hypervisor</em> runs through the operating sstem of the <em>host machine</em>. The benefit of a
+<em>hosted hypervisor</em> is largely sweep away the importance of the underlying hardware, this is due to
+the fact that the host operating system is handling the hardware communications. Therefore the
+<em>hosted hypervisor</em> is useful in the situation where the hardware compatibility is high on the
+priority list. On the flip side, <em>hosted hypervisor</em> inevitably invert an additional layer between
+hardware and application, the consequences can be more resource overhead and result a resource
+hungry application, lower VM performace.<br />
+====Bare-metal Hypervisor====
+Contrary to <em>hosted hypervisor</em>, a <em>bare metal hypervisor</em> environment improves performance by
+directly run on host machine’s hardware. In turn, a <em>bare-metal hypervisor</em> needs its own operating
+system and own device drivers to be able to interact with underline hardware (e.g. I/O, kernel
+processes etc.). Therefore <em>bare-metal hypervisor</em> can perform better, have better scalability and
+enhanced stability. Nevertheless, this also comes a cost of compatibility given that only limited
+device drivers can be implemented at a single time.<br />
+<br />
+In summary, although VM contains everything we need to run an application (bioinformatics
+application) and is independent to certain degree, it also need to compromise either performance or
+compatibility.<br />
+<br />
+<code data-gist-id="fe0b1428d6fff82984c51ffe6430216f" data-gist-file="VM_Arch.png"></code></p>
+
+<p>===Containers===
+If you are a programmer or have been tech nerd, you may have already heard of Docker. Docker is a
+helpful tools for packaging, shipping and running applications within “containers”. It is somewhat
+important to have a mindful understanding about Docker and its counterparts.</p>
+
+
+<span class="post-date">
+  Written on
+  
+  September
+  12th,
+  2017
+  by Robert Qiao
+</span>
+
+<div class="post-date">Feel free to share!</div>
+  <div class="sharing-icons">
+    <a href="https://twitter.com/intent/tweet?text=Containers - to contain your complex environment dependencies&amp;url=http://github.com/pages/robqiao/Phoenix-BioHub-Support/journal/2017/09/12/Containers.html&amp;via=robqiao" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u=http://github.com/pages/robqiao/Phoenix-BioHub-Support/journal/2017/09/12/Containers.html&amp;title=Containers - to contain your complex environment dependencies" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+    <a href="https://plus.google.com/share?url=http://github.com/pages/robqiao/Phoenix-BioHub-Support/journal/2017/09/12/Containers.html" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+  </div>
+</div>
+
+<div class="related">
+  <h1 >You may also enjoy:</h1>
+  
+  <ul class="related-posts">
+    
+      
+        
+        
+      
+        
+          <li>
+            <h3>
+              <a href="http://github.com/pages/robqiao/Phoenix-BioHub-Support/journal/2017/06/22/Phoenix-ArrayJobs.html">
+                Array Jobs
+	        <i class="fa fa-comments" aria-hidden="true"></i> 
+                  <a href="http://github.com/pages/robqiao/Phoenix-BioHub-Support/journal/2017/06/22/Phoenix-ArrayJobs.html#disqus_thread"></a> 
+                <!--<img src="/images/DataArray-teaser.jpg">-->
+                <!--<small>June 22, 2017</small>-->
+              </a>
+            </h3>
+          </li>
+          
+        
+      
+        
+          <li>
+            <h3>
+              <a href="http://github.com/pages/robqiao/Phoenix-BioHub-Support/journal/2017/06/18/Phoenix-LongQueue.html">
+                Use long queue with Phoenix
+	        <i class="fa fa-comments" aria-hidden="true"></i> 
+                  <a href="http://github.com/pages/robqiao/Phoenix-BioHub-Support/journal/2017/06/18/Phoenix-LongQueue.html#disqus_thread"></a> 
+                <!--<img src="/images/cards-teaser.jpg">-->
+                <!--<small>June 18, 2017</small>-->
+              </a>
+            </h3>
+          </li>
+          
+        
+      
+    
+      
+        
+        
+      
+    
+      
+        
+        
+      
+    
+  </ul>
+</div>
+
+
+
+  <section class="disqus">
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    var disqus_shortname = 'robqiao';
+    var disqus_developer = 0;
+    (function() {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+
+
+    </div>
+
+    <footer class="footer">
+  
+    <a href="https://github.com/robqiao/Phoenix-BioHub-Support" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+  
+    <a href="https://twitter.com/robqiao" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+  
+    <a href="http://www.linkedin.com/in/robqiao/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+  
+    <a href="mailto:robert.qiao@adelaide.edu.au" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+  
+    <a href="https://robqiao.github.io/Phoenix-BioHub-Support/feed.xml" target="_blank"><i class="fa fa-rss-square" aria-hidden="true"></i></a>
+  
+  <div class="post-date"><a href="http://github.com/pages/robqiao/Phoenix-BioHub-Support/menu/aboutus.html">Phoenix@BioHub Home | The place where Biology meets SuperComputers by Robert Qiao</a><br />
+        <a href="https://lenpaul.github.io/Lagrange/menu/about"> Inspired by Lagrange </a>
+  </div>
+</footer>
+
+
+  </div>
+  <script id="dsq-count-scr" src="//robqiao.disqus.com/count.js" async></script>
+</body>
+</html>
