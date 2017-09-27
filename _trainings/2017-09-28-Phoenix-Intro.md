@@ -13,7 +13,7 @@ image:
 cool/"
 ---
 
-__This post is for the workshop "Introduction to Phoenix for Bioinformaticians" on 28th September__
+__This post is for the workshop "Introduction to Phoenix for Bioinformaticians" on 28th September 2017__
  
 In this workshop, the Phoenix team will introduce world class and the state's most powerful _High
 Performance Computing (HPC)_ facility _Phoenix_. We will cover some basics about HPC
@@ -28,7 +28,7 @@ with your friendly tutors before read further.__
 
 If you are all set, now 
 <br><br>
-### [**Start "Introduction to Linux for Phoenix Users"**](https://phoenixhpc.github.io/Intro-Bash/)
+### [**Start "Introduction to Phoenix for Bioinformaticians"**](https://phoenixhpc.github.io/Intro-Bash/)
 <br>
 Please also remember to provide us feedback at the end of the class, your feedback will help us to
 better prepare for future trainings and shape your learning experience. 
