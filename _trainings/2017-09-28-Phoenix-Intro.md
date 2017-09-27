@@ -28,11 +28,11 @@ with your friendly tutors before read further.__
 
 If you are all set, now 
 <br><br>
-### [**Start "Introduction to Phoenix for Bioinformaticians"**](https://phoenixhpc.github.io/Intro-Bash/)
+### [**Start "Introduction to Phoenix for Bioinformaticians"**](https://phoenixhpc.github.io/Phoenix-BioHub-Support/)
 <br>
 Please also remember to provide us feedback at the end of the class, your feedback will help us to
 better prepare for future trainings and shape your learning experience. 
 <br><br>
-[_Provide Us feedback_](https://goo.gl/gqwQ1e)
+[_Provide Us feedback_](https://goo.gl/32sFYf)
 <br><br> 
 From Phoenix Team
