@@ -13,10 +13,10 @@ image:
 cool/"
 ---
 
-#### This post is for the workshop "Introduction to Phoenix for Bioinformaticians" on 28th September
-#### 
-In this workshop, the Phoenix team will introduce world class and the state's most powerful __High
-Performance Computing__ (HPC) facility __Phoenix__. We will cover some basics about HPC
+__This post is for the workshop "Introduction to Phoenix for Bioinformaticians" on 28th September__
+ 
+In this workshop, the Phoenix team will introduce world class and the state's most powerful _High
+Performance Computing_ (HPC) facility _Phoenix_. We will cover some basics about HPC
 in general, particularly we will introduce fundamentals of scheduling. 
 
 The aim of this workshop is to provide you a stepping stone to get started with Phoenix. In addition
