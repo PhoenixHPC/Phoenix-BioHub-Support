@@ -28,7 +28,7 @@ with your friendly tutors before read further.__
 
 If you are all set, now 
 <br><br>
-### [**Start "Introduction to Phoenix for Bioinformaticians"**](https://phoenixhpc.github.io/Phoenix-BioHub-Support/)
+### [**Start "Introduction to Phoenix for Bioinformaticians"**](://phoenixhpc.github.io/Intro-Phoenix/)
 <br>
 Please also remember to provide us feedback at the end of the class, your feedback will help us to
 better prepare for future trainings and shape your learning experience. 
