@@ -2,7 +2,7 @@
 layout: post
 title: Array Jobs
 categories: journal 
-tags: [phoenix, intro]
+tags: [phoenix,intro]
 comments: true
 image:  
   feature: DataArray.jpg
