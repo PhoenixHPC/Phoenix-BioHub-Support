@@ -2,7 +2,7 @@
 layout: post
 title: Containers - to contain your complex environment dependencies 
 categories: journal 
-tags: [phoenix, intermediate, coding]
+tags: [phoenix,intermediate,coding]
 comments: true
 image:  
   feature: Container.jpg
