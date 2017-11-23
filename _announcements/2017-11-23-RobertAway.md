@@ -1,6 +1,6 @@
 ---
 layout:	announcement 
-title: 	"Robert is Away"
+title: 	"Robert is at conference"
 date:   '2017-11-23 13:00:00 +0930'
 categories: communications
 tags: 	[announcement,news]
