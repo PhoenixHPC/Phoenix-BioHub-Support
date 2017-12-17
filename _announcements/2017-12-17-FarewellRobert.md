@@ -22,7 +22,12 @@ Enquires regarding to Phoenix/HPC, please address your questions to <a
 href="mailto:hpcsupport@adelaide.edu.au">Contact HPC Support</a> and one of Phoenix Team member will
 be more than happy to help you. <br><br>
 This will also be the last offical post of Phoenix@BioHub, I would like to take this opportunity to thank many people, particularly **Steve**, **Jimmy**, **Rick** and
-**wonderful students**, you together made my life @ BioHub a challenging yet a welcomed place, I did
-sincerely enjoy every single day. I do not know what else I should say now, before I officially signing off, I may be share one of my favourite muppets scene with you "Saying Goodbye". 
+**wonderful students**, you together made my life @ BioHub a challenging yet enjoyable, I did
+sincerely love every single day. I do not know what else I should say by now, I thought before I officially signing off, I may be share this my favourite muppets scene with you "Saying Goodbye". <br>
+
+So long and wish you luck. <br><br>
+
+Kind Regards
+Robert Qiao
 <iframe width="560" height="315" src="https://www.youtube.com/embed/penzsVANV0k?start=3" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
