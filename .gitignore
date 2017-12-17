@@ -1,0 +1,8 @@
+# gitignore lists
+
+# Ignore Folders
+/_site/
+/Trainings/
+# Files to ignore
+_config.yml
+README.md

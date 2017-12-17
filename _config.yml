@@ -1,0 +1,34 @@
+# Site Settings
+# Plugins
+paginate:            5
+disqus:              "robqiao"
+google-ID:           "UA-104989198-2"
+
+# Build Settings
+markdown:            kramdown
+highlighter:         rouge
+plugins:	     
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+# - jekyll-email-protect		
+
+# Feed settings
+title:		     "Phoenix@BioHub Home | The place where Biology meets SuperComputers"
+description:          "This is the announcement board for the Bioinformatics HPC Community at the University of Adelaide."
+
+# Where things are
+layouts_dir: _layouts
+destination: ./_site
+data_dir: _data
+includes_dir: _includes
+collections:
+  announcements:
+    output:      true
+    permalink:   /:categories/:title/
+  downloads:
+    output:      true
+    permalink:   /:categories/:title/
+  trainings:
+    output:      true
+    permalink:   /:categories/:title/
