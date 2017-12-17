@@ -23,7 +23,7 @@ href="mailto:hpcsupport@adelaide.edu.au">Contact HPC Support</a> and one of Phoe
 be more than happy to help you. <br><br>
 This will also be the last offical post of Phoenix@BioHub, I would like to take this opportunity to thank many people, particularly **Steve**, **Jimmy**, **Rick** and
 **wonderful students**, you together made my life @ BioHub a challenging yet enjoyable, I did
-sincerely love every single day. I do not know what else I should say by now, I thought before I officially signing off, I may be share this my favourite muppets scene with you "Saying Goodbye". <br>
+sincerely love every single day. I do not know what else I should say by now, I thought before I officially signing off, I may be share this my favourite muppets scene with you "Saying Goodbye". <br><br>
 So long and wish you luck. <br><br>
 Kind Regards <br>
 Robert
