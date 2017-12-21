@@ -1,7 +1,7 @@
 ---
 layout:	announcement 
 title: 	"Robert is sadly leaving Phoenix Team"
-date:   '2017-12-22 12:00:00 +0930'
+date:   '2017-12-21 12:00:00 +0930'
 categories: communications
 tags: 	[announcement,news]
 permalink: /:categories/:title/
