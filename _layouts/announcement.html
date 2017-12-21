@@ -28,9 +28,11 @@ comments: true
 
 {% include social-sharing.html %}
 
+{% comment %}
 <!--Possiblely including related announcements by introducing a new layout related-news
-  {% include related-posts.html %}
-//-->
+{% include related-posts.html %}
+-->
+{% endcomment %}
 
 {% if site.disqus %}
   {% include disqus.html %}
